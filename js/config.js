@@ -67,12 +67,12 @@ Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
 	"backgrounds/images/load1.jpg",
-	"backgrounds/images/load2.png",
-	"backgrounds/images/load3.png",
+	"backgrounds/images/load2.jpg",
+	"backgrounds/images/load3.jpg",
 	"backgrounds/images/load4.jpg",
-	"backgrounds/images/load5.png",
-	"backgrounds/images/load6.png",
-	"backgrounds/images/load7.png",
+	"backgrounds/images/load5.jpg",
+	"backgrounds/images/load6.jpg",
+	"backgrounds/images/load7.jpg"
 ];
 
 /*(Image-background only)
@@ -96,7 +96,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 20;
 
 /*Play music during the loading screen?
 'true' or 'false'*/
