@@ -109,11 +109,11 @@ var l_messagesRandom = false;
 
 /*Delay between message changes
 in milliseconds*/
-var l_messagesDelay = 3000;
+var l_messagesDelay = 0000;
 
 /*Messages fade time
 in milliseconds*/
-var l_messagesFade = 1000;
+var l_messagesFade = 0000;
 
 //==============================================================
 //========================== WARNING ===========================
