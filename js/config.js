@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 /*Display current map and gamemode?
 'true' or 'false'*/
@@ -18,7 +18,7 @@ var l_displayMapGamemode = true;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "[TSG] SWTOR Hardcore RP Server";
 
 /*Use a video for the background?
 Otherwise it will use images
@@ -66,9 +66,13 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"backgrounds/images/load1.jpg",
+	"backgrounds/images/load2.png",
+	"backgrounds/images/load3.png",
+	"backgrounds/images/load4.jpg",
+	"backgrounds/images/load5.png",
+	"backgrounds/images/load6.png",
+	"backgrounds/images/load7.png",
 ];
 
 /*(Image-background only)
@@ -79,7 +83,7 @@ var l_bgImagesRandom = true;
 /*(Image-background only)
 Delay between background images changes
 in milliseconds*/
-var l_bgImageDuration = 5000;
+var l_bgImageDuration = 3000;
 
 /*(Image-background only)
 Image background fade velocity
@@ -106,10 +110,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
+	{ogg: "SWTORTheme.ogg", name: "Knights of The Eternal Throne Soundtrack"},
 ];
 
 /*Random music order?
@@ -126,18 +127,19 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"No RDM",
+	"No Minge",
+	"Must RP at all times",
+	"Must respect staff at all times",
 ];
 
 /*Random message order?
 'true' or 'false'*/
-var l_messagesRandom = true;
+var l_messagesRandom = false;
 
 /*Delay between message changes
 in milliseconds*/
-var l_messagesDelay = 5000;
+var l_messagesDelay = 3000;
 
 /*Messages fade time
 in milliseconds*/
