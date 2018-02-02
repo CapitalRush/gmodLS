@@ -39,13 +39,13 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"backgrounds/images/load1.jpg",
-	"backgrounds/images/load2.jpg",
-	"backgrounds/images/load3.jpg",
-	"backgrounds/images/load4.jpg",
-	"backgrounds/images/load5.jpg",
-	"backgrounds/images/load6.jpg",
-	"backgrounds/images/load7.jpg"
+	"load1.jpg",
+	"load2.jpg",
+	"load3.jpg",
+	"load4.jpg",
+	"load5.jpg",
+	"load6.jpg",
+	"load7.jpg"
 ];
 
 /*(Image-background only)
