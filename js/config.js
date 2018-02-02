@@ -100,7 +100,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"This galaxy is based in the Old Republic during the year of 3637 BBY. This is the start and the height of the Eternal Empire. The galaxy is in turmoil as Valkorion and his Eternal Empire begin destroying all those who oppose. This results in great death on the sides of the Sith and the Jedi. However the sith see this man as the true and strong Emperor, and give in to his ways, after he has slain the commanders of the Sith Army. After the Sith Empire falls under the rule of Valkorion, he uses his power to resurrect the strongest of the Sith Order. Using their combined strength to overwhelm and defeat the Jedi Order and the Republic itself."
+	"This galaxy is based in the Old Republic during the year of 3637 BBY. This is the start and the height of the Eternal Empire. The galaxy is in turmoil as Valkorion and his Eternal Empire begin destroying all those who oppose the Throne. This results in great death on the sides of both the Sith and the Jedi. However the Sith see Valkorion as he once was, Emperor Vitiate. This draws the Empire once again, to his rule. After the Sith kneel to the Eternal Throne, he uses his power to resurrect the strongest of the Sith, The Ancients. Using their combined strength to overwhelm and defeat the Jedi Order and the Republic itself."
 ];
 
 /*Random message order?
