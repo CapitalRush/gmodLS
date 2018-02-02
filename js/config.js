@@ -100,12 +100,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Rule One: As this is a Hardcore server, we expect mature behavior. No Minging, Fail-RP, Griefing, Public Disrespect and or further childish behavior... In Character.",
-	"Rule Two: Do not attempt to Lie to, Deceive, Provoke or otherwise Scheme alongside or against a Player or Staff Member",
-	"Rule Three: Always follow the orders and demands given by a Staff Member. Should a demand/request/order not be followed you will be punished accordingly.",
-	"Rule Four: Disrespect to a Staff Member or Player is unacceptable in public, if you have an issue, you must bring it to said player/staff in Private Chat.",
-	"Rule Five: As a requirement by the Server, you must be the age of 16 or Older. This, however, comes with an exception, should you like to request an exception a staff member will interview you.",
-	"Rule Notice: This server has a 0 Tolerance for any Bullshit, said bullshit is deemed by the Owners and their High Staff, We are Adults, we expect you act accordingly. Expect punishment if any of these rules are broken."
+	"This galaxy is based in the Old Republic during the year of 3637 BBY. This is the start and the height of the Eternal Empire. The galaxy is in turmoil as Valkorion and his Eternal Empire begin destroying all those who oppose. This results in great death on the sides of the Sith and the Jedi. However the sith see this man as the true and strong Emperor, and give in to his ways, after he has slain the commanders of the Sith Army. After the Sith Empire falls under the rule of Valkorion, he uses his power to resurrect the strongest of the Sith Order. Using their combined strength to overwhelm and defeat the Jedi Order and the Republic itself."
 ];
 
 /*Random message order?
