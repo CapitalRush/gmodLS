@@ -25,33 +25,6 @@ Otherwise it will use images
 'true' or 'false'*/
 var l_bgVideo = false;
 
-/*Default available videos:
-"aurora.webm"
-"bluefall.webm"
-"bluetilefloor.webm"
-"bluewhitecircles.webm"
-"bokehlens.webm"
-"cleanbokeh.webm"
-"coldnight.webm"
-"colorfulburst.webm"
-"dancingstars.webm"
-"dropsflares.webm"
-"focusorangebokeh.webm"
-"glimmering.webm"
-"glowingrings.webm"
-"greencircles.webm"
-"hues.webm"
-"inthedeep.webm"
-"modernflourish.webm"
-"orangeaura.webm"
-"warminside.webm"
-"yellowgreen.webm"
-
-You can add your own video backgrounds
-Just make sure they are using webm VP8 format 
-(Place the videos in the backgrounds/videos folder)*/
-var l_background = "bluefall.webm";
-
 /*(Image-background only)
 Enable map-based background image?
 If enabled, the background will be an image based on the server current map
@@ -96,7 +69,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 20;
+var l_bgDarkening = 50;
 
 /*Play music during the loading screen?
 'true' or 'false'*/
@@ -127,10 +100,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"No RDM",
-	"No Minge",
-	"Must RP at all times",
-	"Must respect staff at all times",
+	"Rule One: As this is a Hardcore server, we expect mature behavior. No Minging, Fail-RP, Griefing, Public Disrespect and or further childish behavior... In Character.",
+	"Rule Two: Do not attempt to Lie to, Deceive, Provoke or otherwise Scheme alongside or against a Player or Staff Member",
+	"Rule Three: Always follow the orders and demands given by a Staff Member. Should a demand/request/order not be followed you will be punished accordingly.",
+	"Rule Four: Disrespect to a Staff Member or Player is unacceptable in public, if you have an issue, you must bring it to said player/staff in Private Chat.",
+	"Rule Five: As a requirement by the Server, you must be the age of 16 or Older. This, however, comes with an exception, should you like to request an exception a staff member will interview you.",
+	"Rule Notice: This server has a 0 Tolerance for any Bullshit, said bullshit is deemed by the Owners and their High Staff, We are Adults, we expect you act accordingly. Expect punishment if any of these rules are broken."
 ];
 
 /*Random message order?
